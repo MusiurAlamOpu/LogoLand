@@ -31,10 +31,11 @@ More Specifically
 
 **Links**
 ### -------Visit the site through the link
-    [https://logoland-ce573.web.app/]
+    https://logoland-ce573.web.app/
 ### -------My github client site repository link is
     https://github.com/MusiurAlamOpu/LogoLand.git
 ### -------My github server site repository link is
-    https://github.com/MusiurAlamOpu/LogoLandServer.git
+    https://github.com/MusiurAlamOpu/LogoLand-Server.git
+
 
 
